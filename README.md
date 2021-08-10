@@ -1,2 +1,2 @@
 # Solitiare_Game
-Classic solitiare game you can see report and codes above
+Classic solitaire game you can see codes above
